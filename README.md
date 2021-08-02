@@ -1,3 +1,3 @@
 - Hi, I’m @xtawfeeq7k
 - I’m interested in termenal stuff
-- I’m currently learning phisics and programing
+- I’m currently learning phusics and programming
