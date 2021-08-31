@@ -1,3 +1,3 @@
 - Hi, I’m @xtawfeeq7k
-- I’m interested in terminal stuff
+- I’m interested in linux and terminal
 - I’m currently learning physics and programming
