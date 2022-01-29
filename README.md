@@ -27,7 +27,7 @@
 [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://google.com)
 [![GitHub](https://img.shields.io/badge/Github-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com)
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6c92ef7d-3335-435a-b47c-2080e95dda4c/deploy-status)](https://app.netlify.com/sites/determined-ardinghelli-9bb115/deploys)
+[![Netlify](https://api.netlify.com/api/v1/badges/73accbe4-3736-4c57-af2a-58d499d1b24e/deploy-status)](https://app.netlify.com/sites/anilogin/deploys)
 
 ### Github Stats
 <details style="cursor: pointer;" open>
