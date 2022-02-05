@@ -35,6 +35,8 @@
 <p align=center>
 <a href="https://github.com/AhmadShkour71">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtawfeeq7k&theme=blue-green" alt="Statistics." />
+  
+  <<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={xtawfeeq7k}&theme=blue-green" alt="Statistics." />
 </a>
 </p>
 </details>
