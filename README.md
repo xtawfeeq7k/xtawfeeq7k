@@ -3,7 +3,6 @@
 
 
 - 🌱 I am junior BackEnd web developed
-- 🌱 I am currently learning Discord.py and Ethical Hacking
 
 <br>
 ---
