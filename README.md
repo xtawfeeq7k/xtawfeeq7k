@@ -5,7 +5,6 @@
 - 🌱 I am junior BackEnd web developed
 
 <br>
----
 
 ### Frameworks and Languages
 [![Node.JS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
@@ -39,11 +38,6 @@
 </a>
 </p>
 </details>
-
-
-
-
-
 
 
 
