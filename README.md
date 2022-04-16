@@ -30,16 +30,6 @@
 [![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com)
 [![Netlify](https://api.netlify.com/api/v1/badges/73accbe4-3736-4c57-af2a-58d499d1b24e/deploy-status)](https://app.netlify.com/sites/anilogin/deploys)
 
-### Github Stats
-<details style="cursor: pointer;" open>
-  <summary>Statistics</summary>
-<p align=center>
-<a href="https://github.com/xtawfeeq7k">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=xtawfeeq7k&theme=blue-green" alt="Statistics." />
-  
-  <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username={xtawfeeq7k}&theme=blue-green" alt="Statistics." /> -->
-</a>
-</p>
 </details>
 
 
